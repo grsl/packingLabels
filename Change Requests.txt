@@ -1,0 +1,17 @@
+2018-01-04
+	Michail asked for a ssearch facility on the Works Orders and Product Codes.
+
+2017-11-22
+    FIX - Off by one error in the last serial number on the first label.
+
+2017-11-09
+    Raff has asked for a way to start the serial number from any number he chooses.
+
+2017-01-20
+    David Gibb has asked that the script be changed to accommodate the
+    selection of the year. This is due to labels from Welwyn Garden City
+    having last year (2016) in the serial number and David needs to match
+    this on the packing labels.
+
+
+    
